@@ -21,8 +21,8 @@ SET time_zone = "+00:00";
 -- Database: `db_mysql`
 --
 CREATE DATABASE db_mysql;
-CREATE USER 'root'@'localhost';
-GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, INDEX, DROP, ALTER, CREATE TEMPORARY TABLES, LOCK TABLES ON matomo_db_name_here.* TO 'root'@'localhost';
+CREATE USER 'zero'@'localhost';
+GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, INDEX, DROP, ALTER, CREATE TEMPORARY TABLES, LOCK TABLES ON db_mysql.* TO 'zero'@'localhost';
 -- --------------------------------------------------------
 
 --

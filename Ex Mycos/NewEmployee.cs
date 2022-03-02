@@ -50,7 +50,7 @@ namespace Ex_Mycos
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            var str = "server=localhost;userid=root;password=;database=db_mysql";
+            var str = "server=localhost;userid=zero;password=;database=db_mysql";
             Con = new MySqlConnection(str);
         }
     }

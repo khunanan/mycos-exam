@@ -1,0 +1,28 @@
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\Ex Mycos.exe
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\Ex Mycos.deps.json
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\Ex Mycos.runtimeconfig.json
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\Ex Mycos.runtimeconfig.dev.json
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\Ex Mycos.dll
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\ref\Ex Mycos.dll
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\Ex Mycos.pdb
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\obj\Debug\net5.0-windows\Ex Mycos.csprojAssemblyReference.cache
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\obj\Debug\net5.0-windows\Ex Mycos.csproj.GenerateResource.cache
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\obj\Debug\net5.0-windows\Ex Mycos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\obj\Debug\net5.0-windows\Ex Mycos.AssemblyInfoInputs.cache
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\obj\Debug\net5.0-windows\Ex Mycos.AssemblyInfo.cs
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\obj\Debug\net5.0-windows\Ex Mycos.csproj.CoreCompileInputs.cache
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\obj\Debug\net5.0-windows\Ex Mycos.dll
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\obj\Debug\net5.0-windows\ref\Ex Mycos.dll
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\obj\Debug\net5.0-windows\Ex Mycos.pdb
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\obj\Debug\net5.0-windows\Ex Mycos.genruntimeconfig.cache
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\obj\Debug\net5.0-windows\Ex Mycos.csproj.CopyComplete
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\obj\Debug\net5.0-windows\Ex_Mycos.Home.resources
+C:\Users\Lalalal\source\repos\Ex Mycos\Ex Mycos\obj\Debug\net5.0-windows\Ex_Mycos.NewEmployee.resources
